@@ -9,6 +9,8 @@ public class HelloMccoy {
 		
 		System.out.println("Hello world");
 		
+		System.out.println(check in );
+		
 	}
 
 }
